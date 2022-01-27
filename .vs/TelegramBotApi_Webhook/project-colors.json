@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a232b11-b825-4ee1-bb3d-81987ce24bcf": {
+      "ProjectGuid": "7a232b11-b825-4ee1-bb3d-81987ce24bcf",
+      "DisplayName": "TelegramBotApi_Webhook",
+      "ColorIndex": 0
+    },
+    "3936c531-42aa-4fbc-b8a9-dcffaef1f995": {
+      "ProjectGuid": "3936c531-42aa-4fbc-b8a9-dcffaef1f995",
+      "DisplayName": "TelegramBotApi",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

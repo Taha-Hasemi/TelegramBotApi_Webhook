@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSO5OB8VsKgEX57jfcjtJ9Y6Yq9Y3tYlYcKRVCxOqohiRgqPTiAtjFCcjhAxMUpEJbYB4BmP2I6YLaW3Q/vWFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kizil\\source\\repos\\TelegramBotApi_Webhook\\TelegramBotApi\\TelegramBotApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.0\\microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.0.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\kizil\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
