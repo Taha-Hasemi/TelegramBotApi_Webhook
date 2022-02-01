@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Telegram.Bot;
 using Telegram.Bot.Types;
+using TelegramBotApi.Models;
 
 namespace TelegramBotApi.Controllers
 {
@@ -13,11 +14,12 @@ namespace TelegramBotApi.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] Update update)
         {
-            TelegramBotClient client = new TelegramBotClient("5182535092:AAGBgIFmb-oQ5HBXiv-Nx8tQ78jOejFV68o");
+            TelegramBotClient client = Bot.GetClient();
             if (update.Type == Telegram.Bot.Types.Enums.UpdateType.Message)
             {
                 await client.SendTextMessageAsync(update.Message.From.Id, "Mesaj alındı");
             }
+
             return Ok();
         }
     }

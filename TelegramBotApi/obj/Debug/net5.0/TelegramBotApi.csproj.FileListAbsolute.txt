@@ -31,3 +31,4 @@ C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\ref\TelegramBotApi.dll
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\TelegramBotApi.pdb
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\TelegramBotApi.genruntimeconfig.cache
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\bin\Debug\net5.0\BotSettings.json

@@ -11,6 +11,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TelegramBotApi.Models;
 
 namespace TelegramBotApi
 {
@@ -55,6 +56,9 @@ namespace TelegramBotApi
             {
                 endpoints.MapControllers();
             });
+
+
+            new Bot(Configuration).SetWebhook().Wait();
         }
     }
 }
