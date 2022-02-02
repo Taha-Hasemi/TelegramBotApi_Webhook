@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using Telegram.Bot;
 using Telegram.Bot.Types;
 using TelegramBotApi.Models;
+using TelegramBotApi.Models.Interfaces;
 
 namespace TelegramBotApi.Controllers
 {
@@ -11,9 +12,9 @@ namespace TelegramBotApi.Controllers
     [ApiController]
     public class MessageController : ControllerBase
     {
-        Bot _bot;
+        IBot _bot;
 
-        public MessageController(Bot bot)
+        public MessageController(IBot bot)
         {
             _bot = bot;
         }

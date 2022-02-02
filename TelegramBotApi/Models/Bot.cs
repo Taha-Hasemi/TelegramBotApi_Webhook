@@ -2,10 +2,11 @@
 using System;
 using System.Threading.Tasks;
 using Telegram.Bot;
+using TelegramBotApi.Models.Interfaces;
 
 namespace TelegramBotApi.Models
 {
-    public class Bot
+    public class Bot : IBot
     {
         readonly IConfiguration _configuration;
 
