@@ -1,0 +1,17 @@
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\TelegramBotApi.exe
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\BotSettings.json
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\TelegramBotApi.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\TelegramBotApi.deps.json
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\TelegramBotApi.runtimeconfig.json
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\TelegramBotApi.pdb
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Release\net5.0\PubTmp\Out\Telegram.Bot.dll

@@ -26,7 +26,6 @@ C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\scopedcss\bundle\TelegramBotApi.styles.css
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\staticwebassets\TelegramBotApi.StaticWebAssets.Manifest.cache
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\TelegramBotApi.RazorTargetAssemblyInfo.cache
-C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\TelegramBotApi.csproj.CopyComplete
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\TelegramBotApi.dll
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\ref\TelegramBotApi.dll
 C:\Users\kizil\source\repos\TelegramBotApi_Webhook\TelegramBotApi\obj\Debug\net5.0\TelegramBotApi.pdb
